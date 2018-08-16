@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1534443945 source:c:\users\aluno\desktop\rebeca\roteiro 1\questão 5\controledegastos.cpp
+	"ControleDeGastos.h"
+
+1534443945 c:\users\aluno\desktop\rebeca\roteiro 1\questão 5\controledegastos.h
+	"Despesa.h"
+
+1534443945 c:\users\aluno\desktop\rebeca\roteiro 1\questão 5\despesa.h
+	<iostream>
+
+1534443965 source:c:\users\aluno\desktop\rebeca\roteiro 1\questão 5\despesa.cpp
+	"Despesa.h"
+
+1534443945 source:c:\users\aluno\desktop\rebeca\roteiro 1\questão 5\main.cpp
+	"Despesa.h"
+	"ControleDeGastos.h"
+	<iostream>
+

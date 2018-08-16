@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534443346 source:c:\users\aluno\desktop\rebeca\roteiro 1\questão 4\main.cpp
+	"Pessoa.h"
+	<iostream>
+
+1534443324 c:\users\aluno\desktop\rebeca\roteiro 1\questão 4\pessoa.h
+	<string>
+
+1534443358 source:c:\users\aluno\desktop\rebeca\roteiro 1\questão 4\pessoa.cpp
+	"Pessoa.h"
+

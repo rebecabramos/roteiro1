@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1534441475 source:c:\users\aluno\desktop\rebeca\roteiro 1\questao 1\data.cpp
+	"Data.h"
+
+1534441099 c:\users\aluno\desktop\rebeca\roteiro 1\questao 1\data.h
+	<iostream>
+
+1534441475 source:c:\users\aluno\desktop\rebeca\roteiro 1\questao 1\main.cpp
+	"Data.h"
+	<iostream>
+
